@@ -25,10 +25,10 @@ export const RESUME_DATA = {
   location: "Miami, Florida, US",
   locationLink: "https://www.google.com/maps/place/miami",
   about:
-    "Ph.D. Student in Computer Science @FIU,   Ex. Software/Game Server engineer @Rivergame.",
+    "Ph.D. Student in Computer Science @FIU, Ex.Software/ Game Server engineer @Rivergame.",
   summary:
     "As a Full Stack Engineer, I specialize in taking products from concept to launch. I excel in leading teams and creating environments where individuals perform at their best. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience working remotely with companies worldwide.",
-  avatarUrl: "https://github.com/stefan0711/cv/blob/main/avatar.jpeg",
+  avatarUrl: "https://users.cs.fiu.edu/~wbzhang/images/zhipeng.jpg",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "luckyzhip.y@gmail.com",
