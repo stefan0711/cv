@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Miami, Florida, US",
   locationLink: "https://www.google.com/maps/place/miami",
   about:
-    "Ph.D. Student in Computer Science @FIU, Ex.Software/ Game Server engineer @Rivergame.",
+    "Ph.D. Student in Computer Science @ FIU, Ex.Software/ Game Server engineer @ Rivergame.",
   summary:
     "I'm Zhipeng Yin, a Ph.D. student at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University.    My academic focus is in machine learning and interpretable AI, with a particular emphasis on addressing fairness-related issues.    I investigate how machine learning algorithms can be developed and optimized to ensure fairer and more equitable outcomes, contributing to the creation of fairer AI systems.    My supervisor, Dr. Wenbin Zhang, has extensive research experience in machine learning fairness.\n" +
       "\n" +
@@ -153,6 +153,7 @@ export const RESUME_DATA = {
       logo: EvercastLogo,
       link: {
         label: "evercast.us",
+        href:"#",
       },
     },
   ],
