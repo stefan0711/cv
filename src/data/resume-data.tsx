@@ -16,6 +16,7 @@ import {
   ParabolLogo,
   TastyCloudLogo,
   YearProgressLogo,
+  Logo,
 } from "@/images/logos";
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
@@ -93,7 +94,7 @@ export const RESUME_DATA = {
       title: "Teaching assistant",
       logo: ClevertechLogo,
       start: "2024.5",
-      end: "present",
+      end: "Present",
       description:
         "As a Teaching Assistant for the CEN3721 (Introduction to Human-Computer Interaction) and CEN4072 (Fundamentals of Software Testing), I assist in course instruction, grade assignments, and provide support to students in understanding complex topics.",
     },
