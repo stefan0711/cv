@@ -17,7 +17,7 @@ import {
   TastyCloudLogo,
   YearProgressLogo,
 } from "@/images/logos";
-import { GitHubIcon, LinkedInIcon, XIcon,Scholar } from "@/components/icons";
+import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
   name: "Zhipeng Yin",
@@ -45,12 +45,6 @@ export const RESUME_DATA = {
         name: "LinkedIn",
         url: "https://www.linkedin.com/in/steffen-yin/",
         icon: LinkedInIcon,
-      },
-      {
-        name:"GoogleScholar",
-        url:"https://scholar.google.com/citations?user=1nVpMXgAAAAJ&hl=en",
-        icon:Scholar,
-
       },
     ],
   },
