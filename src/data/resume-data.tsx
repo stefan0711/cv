@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       end: "2020",
       description:
         "Responsible for the friends module of the TOPWAR game, which included real-time communication, adding friends, and visiting other players' bases.  This feature significantly enhanced social interaction for all players.  \n" +
-          "Developed sharing functionality through Facebook, Twitter, and WeChat SDKs, increasing the player base by 10%.  Additionally, implemented ad-based traffic monetization, boosting gaming revenue by 15%. Technologies: SpringBoot, Hibernate, MongoDB",
+          "Developed sharing functionality through Facebook, Twitter, and WeChat SDKs, increasing the player base by 10%.  Additionally, implemented ad-based traffic monetization, boosting gaming revenue by 15%. Technologies: SpringBoot, Hibernate, MongoDB.",
     },
     {
       company: "Florida International University",
@@ -95,7 +95,7 @@ export const RESUME_DATA = {
       start: "2024.5",
       end: "present",
       description:
-        "As a Teaching Assistant for the CEN3721(Introduction to Human-Computer Interaction) and CEN4072(Fundamentals of Software Testing), I assist in course instruction, grade assignments, and provide support to students in understanding complex topics.",
+        "As a Teaching Assistant for the CEN3721 (Introduction to Human-Computer Interaction) and CEN4072 (Fundamentals of Software Testing), I assist in course instruction, grade assignments, and provide support to students in understanding complex topics.",
     },
 
   ],
