@@ -142,7 +142,7 @@ export const RESUME_DATA = {
     {
       title: "DuckBook",
       techStack: [
-          "Full-stack developer",
+          "Full-stack",
         "Node.js",
         "Javascript",
         "MongoDB",
