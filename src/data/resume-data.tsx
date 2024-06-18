@@ -128,7 +128,7 @@ export const RESUME_DATA = {
         "Backend",
         "SpringBoot",
         "Hibernate",
-        "MongoDB",
+        "Redis",
         "AWS",
       ],
       description:
@@ -136,7 +136,7 @@ export const RESUME_DATA = {
       logo: ParabolLogo,
       link: {
         label: "github.com",
-        href: "https://www.rivergame.net/download.html/",
+        href: "https://www.rivergame.net/download.html",
       },
     },
     {
@@ -145,16 +145,26 @@ export const RESUME_DATA = {
           "Full-stack developer",
         "Node.js",
         "Javascript",
-        "Html/css",
         "MongoDB",
       ],
       description:
         "Led a team of 3 friends to develop an online bookstore using Node.js and MongoDB, designed a user-friendly React front-end, and integrated the PayPal API",
       logo: EvercastLogo,
-      link: {
-        label: "evercast.us",
-        href:"#",
-      },
+
+    },
+    {
+      title: "University club application system",
+      techStack: [
+        "SpringBoot",
+        "Hibernate",
+        "Kafka",
+        "MySQL",
+        "Docker",
+      ],
+      description:
+          "Developed a webapp for 1,000 students to apply to the club online, deployed on AWS EC2 using Docker, and implemented automated emails with JavaMail, increasing processing speed by 20%.",
+      logo: EvercastLogo,
+
     },
   ],
 } as const;
