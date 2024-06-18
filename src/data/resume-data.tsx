@@ -27,8 +27,7 @@ export const RESUME_DATA = {
   about:
     "Ph.D. Student in Computer Science @FIU, Ex.Software/ Game Server engineer @Rivergame.",
   summary:
-    "Hello, I'm Zhipeng Yin, a Ph.D. student at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University. My academic focus is in machine learning and interpretable AI, with a particular emphasis on addressing fairness-related issues. I investigate how machine learning algorithms can be developed and optimized to ensure fairer and more equitable outcomes, contributing to the creation of fairer AI systems. My supervisor, Dr. Wenbin Zhang, has extensive research experience in machine learning fairness. <br>" +
-      "Additionally, I have extensive software development experience, including full-time roles in game server development and application backend development." ,
+    "Hello, I'm Zhipeng Yin, a Ph.D. student at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University. My academic focus is in machine learning and interpretable AI, with a particular emphasis on addressing fairness-related issues. I investigate how machine learning algorithms can be developed and optimized to ensure fairer and more equitable outcomes, contributing to the creation of fairer AI systems. My supervisor, Dr. Wenbin Zhang, has extensive research experience in machine learning fairness. Additionally, I have extensive software development experience, including full-time roles in game server development and application backend development." ,
   avatarUrl: "https://users.cs.fiu.edu/~wbzhang/images/zhipeng.jpg",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
