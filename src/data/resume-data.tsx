@@ -123,37 +123,36 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "Parabol",
+      title: "TOPWAR",
       techStack: [
-        "Full Stack Developer",
-        "TypeScript",
-        "React",
-        "Node.js",
-        "GraphQL",
+        "Backend",
+        "SpringBoot",
+        "Hibernate",
+        "MongoDB",
+        "AWS",
       ],
       description:
-        "The Agile meeting co-pilot that delivers better meetings with less effort",
+        "Responsible for backend development of friends and game sharing modules for TopWar, a strategy mobile game with 2 million active players",
       logo: ParabolLogo,
       link: {
         label: "github.com",
-        href: "https://parabol.co/",
+        href: "https://www.rivergame.net/download.html/",
       },
     },
     {
-      title: "Evercast",
+      title: "DuckBook",
       techStack: [
-        "Lead Frontend Developer",
-        "TypeScript",
-        "React",
+          "Full-stack developer",
         "Node.js",
-        "GraphQL",
+        "Javascript",
+        "Html/css",
+        "MongoDB",
       ],
       description:
-        "Creative collaboration platform that combines video conferencing and HD media streaming",
+        "Led a team of 3 friends to develop an online bookstore using Node.js and MongoDB, designed a user-friendly React front-end, and integrated the PayPal API",
       logo: EvercastLogo,
       link: {
         label: "evercast.us",
-        href: "https://www.evercast.us/",
       },
     },
   ],
