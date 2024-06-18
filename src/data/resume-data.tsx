@@ -27,9 +27,8 @@ export const RESUME_DATA = {
   about:
     "Ph.D. Student in Computer Science @FIU, Ex.Software/ Game Server engineer @Rivergame.",
   summary:
-"I'm Zhipeng Yin, a Ph.D. student at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University.   My academic focus is in machine learning and interpretable AI, with a particular emphasis on addressing fairness-related issues.   I investigate how machine learning algorithms can be developed and optimized to ensure fairer and more equitable outcomes, contributing to the creation of fairer AI systems.   My supervisor, Dr. Wenbin Zhang, has extensive research experience in machine learning fairness.\n" +
-      "\n" +
-      "In addition to my academic pursuits, I have a rich background in software development, including full-time roles in game server development and application backend development. ",  avatarUrl: "https://users.cs.fiu.edu/~wbzhang/images/zhipeng.jpg",
+    "Hello, I'm Zhipeng Yin, a Ph.D. student at the Knight Foundation School of Computing and Information Sciences (KFSCIS) at Florida International University. My academic focus is in machine learning and interpretable AI, with a particular emphasis on addressing fairness-related issues. I investigate how machine learning algorithms can be developed and optimized to ensure fairer and more equitable outcomes, contributing to the creation of fairer AI systems. My supervisor, Dr. Wenbin Zhang, has extensive research experience in machine learning fairness. Additionally, I have extensive software development experience, including full-time roles in game server development and application backend development." ,
+  avatarUrl: "https://users.cs.fiu.edu/~wbzhang/images/zhipeng.jpg",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
     email: "luckyzhip.y@gmail.com",
@@ -48,12 +47,6 @@ export const RESUME_DATA = {
     ],
   },
   education: [
-    {
-      school: "Florida International of University",
-      degree: "Doctoral Degree in Computer Science",
-      start: "2023",
-      end: "Present",
-    },
     {
       school: "Stevens Institute of Technology",
       degree: "Master's Degree in Computer Science",
