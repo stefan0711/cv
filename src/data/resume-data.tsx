@@ -31,7 +31,7 @@ export const RESUME_DATA = {
       "\n" +
       "In addition to my academic pursuits, I have a rich background in software development, including full-time roles in game server development and application backend development.",
   avatarUrl: "https://users.cs.fiu.edu/~wbzhang/images/zhipeng.jpg",
-  personalWebsiteUrl: "https://jarocki.me",
+  personalWebsiteUrl: "https://zhipengy.com",
   contact: {
     email: "luckyzhip.y@gmail.com",
     tel: "+646yks7995",
