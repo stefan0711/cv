@@ -55,13 +55,13 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Stevens Institute of Technology ｜NJ US",
+      school: "Stevens Institute of Technology ｜NJ",
       degree: "Master's Degree in Computer Science",
       start: "2021",
       end: "2023",
     },
     {
-      school: "Florida International University |FL US",
+      school: "Florida International University ｜FL",
       degree: "Doctoral Degree in Computer Science",
       start: "2023",
       end: "Present",
