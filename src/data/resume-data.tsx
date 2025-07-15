@@ -33,7 +33,7 @@ export const RESUME_DATA = {
   avatarUrl: "https://users.cs.fiu.edu/~wbzhang/images/people/current/zhipeng.jpg",
   personalWebsiteUrl: "https://zhipengy.com",
   contact: {
-    email: "luckyzhip.y@gmail.com",
+    email: "zhip.y7@gmail.com",
     tel: "+646yks7995",
     social: [
       {
